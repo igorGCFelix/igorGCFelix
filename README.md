@@ -7,6 +7,13 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorGCfelix&layout=compact&hide_border=true&title_color=00c2cb&text_color=00f7a1&bg_color=0d1117" />
 </div>
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
+</a>
+
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=igorGCFelix&bg_color=0d1117ff&color=00f7a1&line=00c2cb&point=00e6e6&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
