@@ -5,37 +5,37 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorGCFelix&layout=compact&hide_border=true&title_color=C9D1D9&text_color=8B949E&bg_color=00000000&cache_seconds=0" />
 </div>
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=igorGCFelix&bg_color=00000000&color=C9D1D9&line=58A6FF&point=58A6FF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=igorGCFelix&bg_color=00000000&color=C9D1D9&line=8B949E&point=C9D1D9&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
 ### 🚀 Other Knowledge:
-![Python](https://img.shields.io/badge/-Python-00000000?style=for-the-badge&logo=python&labelColor=161B22)&nbsp;
-![React.js](https://img.shields.io/badge/-React.js-00000000?style=for-the-badge&logo=react&labelColor=161B22)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-00000000?style=for-the-badge&logo=javascript&labelColor=161B22)&nbsp;
-![C#](https://img.shields.io/badge/-CSharp-00000000?style=for-the-badge&logo=csharp&labelColor=161B22)&nbsp; 
-![PHP8](https://img.shields.io/badge/-PHP-00000000?style=for-the-badge&logo=PHP&labelColor=161B22)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-00000000?style=for-the-badge&logo=mysql&labelColor=161B22)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-00000000?style=for-the-badge&logo=html5&labelColor=161B22)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-00000000?style=for-the-badge&logo=CSS3&labelColor=161B22)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-00000000?style=for-the-badge&logo=bootstrap&labelColor=161B22)&nbsp;
-![Figma](https://img.shields.io/badge/-Figma-00000000?style=for-the-badge&logo=figma&labelColor=161B22)&nbsp;
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![React.js](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)&nbsp; 
+![PHP8](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
 
 ---
 
 ### 🛠 Tools:
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-00000000?style=for-the-badge&logo=visualstudio&logoColor=5C2D91&labelColor=161B22)&nbsp;
-![VS Code](https://img.shields.io/badge/-VS%20Code-00000000?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC&labelColor=161B22)&nbsp;
-![Git](https://img.shields.io/badge/-Git-00000000?style=for-the-badge&logo=git&labelColor=161B22)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-00000000?style=for-the-badge&logo=github&labelColor=161B22)&nbsp;
-![Windows](https://img.shields.io/badge/-Windows-00000000?style=for-the-badge&logo=windows&logoColor=00A4EF&labelColor=161B22)&nbsp;
-![Microsoft Office](https://img.shields.io/badge/-Microsoft%20Office-00000000?style=for-the-badge&logo=microsoft&logoColor=E95420&labelColor=161B22)&nbsp;
-![Android Studio](https://img.shields.io/badge/-Android%20Studio-00000000?style=for-the-badge&logo=android-studio&labelColor=161B22)&nbsp;
-![Figma](https://img.shields.io/badge/-Figma-00000000?style=for-the-badge&logo=figma&labelColor=161B22)&nbsp;
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)&nbsp;
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)&nbsp;
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)&nbsp;
+![Windows](https://img.shields.io/badge/Windows-00A4EF?style=for-the-badge&logo=windows&logoColor=white)&nbsp;
+![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)&nbsp;
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)&nbsp;
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
 
 ---
 
 ### 📚 Studying in this moment:
-![Python](https://img.shields.io/badge/-Python-00000000?style=for-the-badge&logo=python&labelColor=161B22)&nbsp;
-![React.js](https://img.shields.io/badge/-React.js-00000000?style=for-the-badge&logo=react&labelColor=161B22)&nbsp;
-![PHP8](https://img.shields.io/badge/-PHP-00000000?style=for-the-badge&logo=PHP&labelColor=161B22)&nbsp;
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![React.js](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)&nbsp;
+![PHP8](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)&nbsp;
