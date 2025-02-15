@@ -1,4 +1,4 @@
-![Top Wave](https://capsule-render.vercel.app/api?type=waving&color=161B22&width=500&height=200&section=top)
+![Top Wave](https://capsule-render.vercel.app/api?type=waving&color=161B22&width=500&height=100&section=top)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=C9D1D9&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Igor+Felix;I'm+17+years+old;I+am+from+Registro,+SP;I+study+systems+development+at+ETEC;Welcome!)](https://git.io/typing-svg)
 
