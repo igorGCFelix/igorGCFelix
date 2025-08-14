@@ -2,7 +2,8 @@
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=igorGCFelix&show_icons=true&count_private=true&hide_border=true&title_color=C9D1D9&icon_color=8B949E&text_color=C9D1D9&bg_color=00000000" alt="Igor Felix GitHub Stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorGCFelix&layout=compact&hide_border=true&title_color=C9D1D9&text_color=8B949E&bg_color=00000000&cache_seconds=0" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorGCFelix&layout=compact&hide_border=true&title_color=C9D1D9&text_color=8B949E&bg_color=00000000&cache_seconds=0&count_weight=1&size_weight=0" />
+
 </div>
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=igorGCFelix&bg_color=00000000&color=C9D1D9&line=8B949E&point=C9D1D9&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
