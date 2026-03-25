@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=C9D1D9&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Igor+Felix;I'm+18+years+old;I+am+from+Registro,+SP;I+study+systems+development+at+ETEC;Welcome!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=C9D1D9&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Igor+Felix;I'm+18+years+old;I+am+from+Itanhaem,+SP;I+study+Analysis+and+Systems+Development+at+FATEC;Welcome!)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=igorGCFelix&show_icons=true&count_private=true&hide_border=true&title_color=C9D1D9&icon_color=8B949E&text_color=C9D1D9&bg_color=00000000" alt="Igor Felix GitHub Stats" /> 
