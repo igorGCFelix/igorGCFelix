@@ -5,8 +5,8 @@
 </div>
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=igorGCFelix&show_icons=true&count_private=true&hide_border=true&title_color=C9D1D9&icon_color=8B949E&text_color=C9D1D9&bg_color=00000000" alt="Igor Felix GitHub Stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorGCFelix&layout=compact&hide_border=true&title_color=C9D1D9&text_color=8B949E&bg_color=00000000&cache_seconds=0&count_weight=1&size_weight=0" />
+  <img width="49%" height="195px" src="https://github-readme-stats-fast.vercel.app/api?username=igorGCFelix&show_icons=true&count_private=true&hide_border=true&title_color=C9D1D9&icon_color=8B949E&text_color=C9D1D9&bg_color=00000000" alt="Igor Felix GitHub Stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=igorGCFelix&layout=compact&hide_border=true&title_color=C9D1D9&text_color=8B949E&bg_color=00000000&cache_seconds=60&count_weight=1&size_weight=0" />
 </div>
 
 <div align="center">
@@ -42,7 +42,4 @@
 
 ---
 ### 📚 Studying in this moment:
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-![React.js](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)&nbsp;
-![PHP8](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)&nbsp;
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
