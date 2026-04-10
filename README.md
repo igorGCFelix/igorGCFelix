@@ -1,15 +1,21 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=C9D1D9&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Igor+Felix;I'm+18+years+old;I+am+from+Itanhaém,+SP;I+study+Analysis+and+Systems+Development+at+FATEC;Welcome!)](https://git.io/typing-svg)
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=C9D1D9&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Igor+Felix;I'm+18+years+old;I+am+from+Itanha%C3%A9m,+SP;I+study+Analysis+and+Systems+Development+at+FATEC;Welcome!)](https://git.io/typing-svg)
+
+</div>
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=igorGCFelix&show_icons=true&count_private=true&hide_border=true&title_color=C9D1D9&icon_color=8B949E&text_color=C9D1D9&bg_color=00000000" alt="Igor Felix GitHub Stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorGCFelix&layout=compact&hide_border=true&title_color=C9D1D9&text_color=8B949E&bg_color=00000000&cache_seconds=0&count_weight=1&size_weight=0" />
-
 </div>
+
+<div align="center">
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=igorGCFelix&bg_color=00000000&color=C9D1D9&line=8B949E&point=C9D1D9&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
----
+</div>
 
+---
 ### 🚀 Other Knowledge:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![React.js](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)&nbsp;
@@ -23,7 +29,6 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
 
 ---
-
 ### 🛠 Tools:
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)&nbsp;
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)&nbsp;
@@ -36,7 +41,6 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
 
 ---
-
 ### 📚 Studying in this moment:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![React.js](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)&nbsp;
